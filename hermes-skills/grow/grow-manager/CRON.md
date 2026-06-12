@@ -1,0 +1,1 @@
+Every morning at 6:30AM (Cron: 30 6 * * *), run the /grow-manager skill and send the report to discord:#general
